@@ -72,7 +72,7 @@ flutter:
   assets:
     - assets/images/bei_logo.png
     - assets/images/logo.png
-    - assets/images/rekish.jpg
+    
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
