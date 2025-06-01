@@ -77,8 +77,7 @@ class _LoginPageState extends State<LoginPage> {
           )
           .timeout(const Duration(seconds: 8));
 
-      if (response.statusCode == 200 &&
-          response.body.contains("You have successfully logged in")) {
+      if (response.statusCode == 200) {
         await saveCredentials(username, password);
         setState(() {
           loginStatus = "Login Successful!";
