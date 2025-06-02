@@ -12,6 +12,7 @@ assets/
 .svn/
 .swiftpm/
 migrate_working_dir/
+ios/Runner/Assets.xcassets/AppIcon.appiconset
 
 # IntelliJ related
 *.iml
