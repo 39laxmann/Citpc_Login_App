@@ -1,16 +1,21 @@
-# citpc_connector_app
+# CITPC WiFi Login App 🚀
 
-A new Flutter project.
+An application to automatically log in to the CITPC (Center for Information Technology, Pulchowk Campus) WiFi network. This app replicates the web login process by sending an HTTP request with the user's credentials.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- 🌐 Automatically logs in to the CITPC WiFi network.
+- 🔐 Secure handling of login credentials.
+- 🧠 Remembers user input (optional).
+- 💡 Simple and intuitive user interface.
 
-A few resources to get you started if this is your first Flutter project:
+## 🔧 Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter** (UI toolkit)
+- **Dart** (Programming language)
+- **HTTP Package** (For networking)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+Here’s how the login screen looks:
+<img width="445" alt="Screenshot 2025-06-24 at 6 27 22 PM" src="https://github.com/user-attachments/assets/11f37eab-f6af-4717-b8ba-e31cff29468d" />
+
