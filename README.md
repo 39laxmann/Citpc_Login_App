@@ -17,5 +17,13 @@ An application to automatically log in to the CITPC (Center for Information Tech
 
 ## 📸 Screenshots
 Here’s how the login screen looks:
+
+
+
+
+
+
+
+
 <img width="445" alt="Screenshot 2025-06-24 at 6 27 22 PM" src="https://github.com/user-attachments/assets/11f37eab-f6af-4717-b8ba-e31cff29468d" />
 
